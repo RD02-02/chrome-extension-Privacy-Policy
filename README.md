@@ -225,11 +225,8 @@ A: 确保页面包含正确的 HTML 元素（`data-partner-id="purchase-date"` �
 - ✅ 自动提取购买日期和商品 ID
 - ✅ 云端配置存储
 
-## 📄 许可证
-
-MIT License
-
-## 🤝 贡献
+## 📄 Feedback
+If you have questions or concerns about this Privacy Policy, you can contact me by rd00@manga.shopping
 
 欢迎提交 Issues 和 Pull Requests！
 
